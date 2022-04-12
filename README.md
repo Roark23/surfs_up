@@ -1,5 +1,6 @@
-# surfs_up
-## Purpose
+# Surfs Up Analysis
+
+## Overiview
 We're consulting a Surf'n'Shake shop to help determine where we should put a location and if one is even viable in Oahu. To ensure that we will choose the best location, we need to make some data-driven decisions. This analysis focuses on the temperature and rainfall for the past 7 years from 2010 to 2017, specifically for June and December. These two months are far enough apart to ensure that we have a good condition year-round. To gather enough data, I am analyzing data from six weather stations in Oahu, Hawaii. The analysis will analyze temperaturefor June and December from 2010 to 2017 as well as rainfall for June and December from 2010 to 2017.
 
 ## Results
